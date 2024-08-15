@@ -1,1 +1,1 @@
-*CodeAlpha Calculator*
+**CodeAlpha Calculator**
